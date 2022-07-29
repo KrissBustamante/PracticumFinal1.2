@@ -1,0 +1,58 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 500px;
+}
+
+.container-lg {
+    width: 80%;
+    height: 550px;
+    color: rgb(19,19,19);
+    background-color: blueviolet;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+title h1{
+    justify-content: center;
+    text-align: center;
+}
+
+body h1{
+    justify-content: center;
+    text-align: center;
+}
+.heading {
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+#inp{
+    display: flex;
+    height: 80px;
+    width: 600px;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+
+#btn{
+    margin-top:30px;
+    height: 50px;
+    width: 150px;
+}
+
+.form {
+    text-align: center;
+}
+
+.output {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    color: black;
+
+}
